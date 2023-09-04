@@ -1,4 +1,4 @@
-var produtos=[]
+/* var produtos=[]
 var itens = prompt("itens");
 var soma = 0;
 for(let i=0; i<itens;i++){
@@ -8,4 +8,5 @@ for(let i=0; i<itens;i++){
 for (let i=0;i<itens;i++){
     document.writeln(produtos[i] + "<br>");
 }
-alert(soma);
+alert(soma); */
+

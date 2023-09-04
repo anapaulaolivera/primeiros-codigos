@@ -1,4 +1,6 @@
+var numero=0, soma=0;
 do {
-    i += 1;
-    console.log(i);
-  } while (i < 5);
+    numero=parseFloat(prompt("Números"));
+    soma+=numero;
+} while (numero!=0);
+alert(soma); 
